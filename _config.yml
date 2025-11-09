@@ -6,6 +6,8 @@ description: >
   product building. I share insights from the business world and my experiences
   creating products from idea to launch.
 
+baseurl: "/VibeIn"  # <-- The added line
+
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
