@@ -1,20 +1,25 @@
 ---
 layout: page
-title: About
+title: "Jake DeLeeuw"
+nav_title: "About"
 permalink: /about/
 ---
 
-I always loved building and breaking things, but I doubted myself if I had anything worth sharing with the world until recently. Now I strive to showcase my work and thoughts to help someone else who might walk the same footsteps as me one day and save them the effort. 
+## **About me** 
+
+I always loved building and breaking things, but I doubted myself if I had anything worth sharing with the world until recently. Now I strive to showcase my work and thoughts to help someone else who might walk the same footsteps and be the guiding light I never had. 
 
 ---
 
-**My goals:**
+## **My Goals**
 
-My first goal is to **launch my first mobile app start to finish** and have it published on app stores. Throughout the process I hope to document my success and challenges here to give you a better insight of what it takes to go **0->1**.
+### Goal 1: Launch my first mobile app
 
-I am not a programmer by trade and don’t aim to be an expert either. But with how AI is evolving, I think it’s more important than ever to understand what is going on in the tech world and how to master the new technologies being built. 
+Launching an app that I can call my own and see people use is a dream of mine. My current idea is a gym based portfolio app that I am actively working on. Stay tuned in the posts to see it go from 0->1 and the sucesses and challenges while devolping it. 
 
-Therefore, my second goal is to be able to understand and do these things at a high level view:
+### Goal 2: Cultivate coding/AI proficentcy
+
+I want to understand and perform these skills at a high level view: 
 
 •	**Professional Tooling & Version Control Mastery**
 
@@ -30,14 +35,17 @@ Therefore, my second goal is to be able to understand and do these things at a h
 
 •	**Vibe coding/AI assisted strategies**
 
-My thesis is that if I can get a grasp on these core concepts. I can have the information I need to build what I want and to have the right conversations to ship my ideas as AI continues to become more powerful.
+### Goal 3: Become a better project manager 
+
+Being early in my career I still have a lot to learn inside of my main skillset of project management. I hope to share insights of tools that work well, interpersonal skills, and how to overcome challenges. This goal is a little harder to document and share due to confidentiality, but I will at the very least show what I learn in my free time. 
 
 ---
 
-**My creed:** 
+## **My creed** 
+
 
 ---
 
 
 
-If you share my mindset and desire, email me at **jakedeleeuw032@gmail.com**. I continue to expand my tribe and find people who wish to do good in the world.
+If you share my mindset and desire, email me at **[jakedeleeuw032@gmail.com](mailto:jakedeleeuw032@gmail.com)**. I continue to expand my tribe and find people who wish to change the world.

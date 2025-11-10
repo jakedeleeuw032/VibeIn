@@ -1,4 +1,5 @@
 $layout-color-border: #e9ecef !default;
+$layout-hr-color: #c2c7cc !default; // slightly darker than border for better visibility
 $layout-color-background: #fdfdfd !default;
 $layout-color-syntax-highlighting-background: #f8f9fa !default;
 $layout-responsive-nav-cutoff: 768px !default;
@@ -17,7 +18,7 @@ body {
 }
 
 #nav-menu-container {
-  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+  @media (max-width: $layout-responsive-nav-cutoff - 1px) {
     position: absolute;
     z-index: 100;
     top: 0.4375rem;
@@ -45,6 +46,14 @@ body {
   }
   .footnotes {
     text-align: left;
+  }
+  // Make horizontal rules more visible in post/content areas
+  hr {
+    border: 0;
+    height: 1px; // thinner
+    background-color: $layout-hr-color;
+    margin: 1.5rem 0;
+    box-shadow: 0 0.5px 0 rgba(0,0,0,0.03) inset;
   }
 }
 
