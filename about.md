@@ -5,13 +5,13 @@ nav_title: "About"
 permalink: /about/
 ---
 
-## **About me** 
+## About me 
 
 I always loved building and breaking things, but I doubted myself if I had anything worth sharing with the world until recently. Now I strive to showcase my work and thoughts to help someone else who might walk the same footsteps and be the guiding light I never had. 
 
 ---
 
-## **My Goals**
+## My Goals
 
 ### Goal 1: Launch my first mobile app
 
@@ -41,8 +41,9 @@ Being early in my career I still have a lot to learn inside of my main skillset 
 
 ---
 
-## **My creed** 
+## My creed 
 
+"under construction"
 
 ---
 
