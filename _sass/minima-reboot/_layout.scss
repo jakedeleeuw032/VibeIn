@@ -39,6 +39,12 @@ body {
     margin-bottom: 1rem;
     text-align: left;
   }
+  /* Ensure main page/post content is left-aligned to avoid unexpected centering
+     from Bootstrap utility classes or table cells. This keeps paragraphs, lists,
+     headings and tables consistently left-justified. */
+  p, ul, ol, table, blockquote, pre {
+    text-align: left;
+  }
   blockquote {
     border-left: 4px solid $layout-color-border;
     padding-left: 1rem;
