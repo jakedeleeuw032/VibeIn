@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Will certifactions/certificates help your career?
+permalink: /certs-help/
 ---
 
 You’ve probably heard from someone certificates or certifications is the way to boost your career. But do they actually help?
