@@ -9,6 +9,8 @@ permalink: /about/
 
 I always loved building and breaking things, but I doubted myself if I had anything worth sharing with the world until recently. Now I strive to showcase my work and thoughts to help someone else who might walk the same footsteps and be the guiding light I never had. 
 
+*Disclaimer - All thoughts are my own and no AI was used in the creation of my writing*
+
 ---
 
 ## My Goals
@@ -39,7 +41,7 @@ I want to understand and perform these skills at a high level view:
 
 •	**Vibe coding/AI assisted strategies**
 
-If I can get a good grasp of these concepts, as AI grows, I can position myself to take advantage of the mechanical improvements and create new things. 
+With a strong foundation in these areas, I’ll be able to leverage the rapid growth of AI to build better tools, solve bigger problems, and create things that matter.
 
 
 ---

@@ -16,28 +16,28 @@ First, it helps to understand the difference:
 - **Certificate:** A document you receive after completing a course. It does not always mean you passed a difficult exam or met strict standards. Examples include LinkedIn Learning, Coursera, or Google Career Certificates.  
 - **Certification:** A verified credential from an organization recognized across an industry. You usually have to pass a proctored test to earn it. Examples include PMP, SHRM, CPA, or financial licenses.  
 
-Because certifications involve formal testing and external validation, they usually carry more weight with managers and leadership. That said, certificates are not useless, and certifications are not a guaranteed ticket to career success.
+Because certifications involve formal testing and external validation, they usually carry more weight with managers and leadership. That being said, certificates are not useless, and certifications are not a guaranteed ticket to success.
 
 ---
 
-## When Certifications Are Worth It
+## When I Think Certifications Are Worth It
 
 When chosen carefully, certifications can return your investment of time and effort. They are most valuable when they:
 
 1. **Help you meet real employer or industry requirements**  
-   If a certification is a requirement for a role, it will almost certainly provide return, assuming you also meet other requirements such as relevant experience.
+   If a certification is a requirement for a role, it will almost certainly provide return, assuming you also meet other requirements such as relevant experience as it's the barrier to entry.
 
 2. **Strengthen your credibility in a specific field**  
    Credibility is subjective, and a certification is not guaranteed to push you over the edge. However, in most cases it provides an advantage. For example, a PMP certification signals project management expertise to leadership and can make you stand out. 
 
 3. **Equip you with practical skills that transfer into your day to day work**  
-   Being able to perform at a high level, whether to maintain your current role or advance your career, pays itself back over time. Even if leadership does not explicitly require certification, applying the skills to stand out can generate long-term value and create opportunities.
+   Being able to perform at a high level, whether to maintain your current role or advance your career, pays itself back over time. Even if leadership does not explicitly require certification, applying the skills gained to stand out can generate opportunities for yourself.
 
 ---
 
-## When Certificates Are Worth It
+## When I Think Certificates Are Worth It
 
-Certificates may be easier to earn than certifications, but when chosen strategically, they can also return value to your career. Their value comes from several areas:
+Certificates may be easier to earn than certifications, but when chosen strategically, they can also bring return on your investment. Their value comes from these areas:
 
 1. **Conversation starters in interviews**  
    Certificates do not replace hands on experience. Their main value is opening a conversation in interviews. They become especially effective when paired with a portfolio or examples that show the skills you gained and how they can be applied. Doing this helps hiring managers picture you performing the work. At best, it convinces them that you are capable and proficient; at worst, it shows you are proactive and willing to learn.
