@@ -6,6 +6,9 @@ $layout-responsive-nav-cutoff: 768px !default;
 
 body {
   background-color: $layout-color-background;
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 #nav-header {
@@ -29,42 +32,56 @@ body {
   }
 }
 
-#nav-trigger:checked ~ #nav-menu {
+#nav-trigger:checked~#nav-menu {
   display: block !important;
 }
 
 #content {
-  h1, h2, h3, h4 {
+
+  h1,
+  h2,
+  h3,
+  h4 {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: left;
   }
+
   /* Ensure main page/post content is left-aligned to avoid unexpected centering
      from Bootstrap utility classes or table cells. This keeps paragraphs, lists,
      headings and tables consistently left-justified. */
-  p, ul, ol, table, blockquote, pre {
+  p,
+  ul,
+  ol,
+  table,
+  blockquote,
+  pre {
     text-align: left;
   }
+
   blockquote {
     border-left: 4px solid $layout-color-border;
     padding-left: 1rem;
     font-style: italic
   }
+
   .footnotes {
     text-align: left;
   }
+
   // Make horizontal rules more visible in post/content areas
   hr {
     border: 0;
     height: 1px; // thinner
     background-color: $layout-hr-color;
     margin: 1.5rem 0;
-    box-shadow: 0 0.5px 0 rgba(0,0,0,0.03) inset;
+    box-shadow: 0 0.5px 0 rgba(0, 0, 0, 0.03) inset;
   }
 
   /* Resume button under About text, left-aligned; paragraph should keep full width */
   .resume-button {
-    display: inline-block; /* sits on its own line if wrapped in a paragraph */
+    display: inline-block;
+    /* sits on its own line if wrapped in a paragraph */
     padding: 0.45rem 0.75rem;
     background-color: #0a84ff;
     color: #ffffff;
@@ -74,8 +91,19 @@ body {
     border: 1px solid #076fd6;
     margin-top: 0.5rem;
   }
+
   .resume-button:hover {
     background-color: #066fe0;
+  }
+
+  // Premium image treatment
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 0 1px rgba(0, 0, 0, 0.1);
+    margin: 1.5rem 0;
+    border: 1px solid rgba(0, 0, 0, 0.05);
   }
 }
 
