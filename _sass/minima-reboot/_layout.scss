@@ -105,6 +105,57 @@ body {
     margin: 1.5rem 0;
     border: 1px solid rgba(0, 0, 0, 0.05);
   }
+
+  /* Resume layout styles */
+  .resume-section-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin: 2.5rem 0 1rem;
+    border-bottom: 2px solid $layout-color-border;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .resume-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-weight: 700;
+    margin-top: 1.5rem;
+  }
+
+  .resume-sub-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+  }
+
+  .resume-item {
+    margin-bottom: 1.5rem;
+  }
+
+  .resume-item ul {
+    margin-top: 0.4rem;
+    padding-left: 1.25rem;
+    list-style-type: disc;
+  }
+
+  .resume-item li {
+    margin-bottom: 0.35rem;
+    line-height: 1.4;
+  }
+
+  .resume-skills-grid {
+    margin-top: 1rem;
+  }
+
+  .resume-skills-item {
+    margin-bottom: 0.5rem;
+  }
 }
 
 #rss-icon {
