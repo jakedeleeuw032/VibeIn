@@ -5,45 +5,41 @@ nav_title: "About"
 permalink: /about/
 ---
 
-## About me 
 
-I always loved building and breaking things, but I doubted myself if I had anything worth sharing with the world until recently. Now I strive to showcase my work and thoughts to help someone else who might walk the same footsteps and be the guiding light I never had. 
+## About me
 
-*Disclaimer - All thoughts are my own and no AI was used in the creation of my writing*
+I always loved building and breaking things, but I doubted myself if I had anything worth sharing with the world until recently. Now I strive to showcase my work and thoughts to help someone else who might walk the same footsteps and be the guiding light I never had.
+
+> *Disclaimer - All thoughts are my own and no AI was used in the creation of my writing*
 
 ---
 
 ## My Goals
 
-### Goal 1: Become a better project manager 
+### Goal 1: Become a better project manager
 
-Being early in my career I still have a lot to learn inside of my main skillset of project management. I hope to share insights of tools that work well, interpersonal skills, and how to overcome challenges. This goal is a little harder to document and share due to confidentiality, but I will at the very least show what I learn in my free time. 
+Being early in my career I still have a lot to learn inside of my main skillset of project management. I hope to share insights of tools that work well, interpersonal skills, and how to overcome challenges. This goal is a little harder to document and share due to confidentiality, but I will at the very least show what I learn in my free time.
 
 ### Goal 2: Launch my first mobile app
 
-Launching an app that I can call my own and see people use is a dream of mine. My current idea is a gym based portfolio app that I am actively working on. Stay tuned in the posts to see it go from 0->1 and the sucesses and challenges while devolping it. 
+Launching an app that I can call my own and see people use is a dream of mine. My current idea is a gym based portfolio app that I am actively working on. Stay tuned in the posts to see it go from **0 -> 1** and the successes and challenges while developing it.
 
 ### Goal 3: Cultivate coding/AI proficiency
 
-I want to understand and perform these skills at a high level view: 
+I want to understand and perform these skills at a high level view:
 
-•	**Professional Tooling & Version Control Mastery**
-
-•	**Core Programming Logic and How It Interacts**
-
-•	**Code Quality Assurance (Unit Testing & Documentation)**
-
-•	**Project Architecture & Systems Thinking**
-
-•	**API Integration & Connectivity**
- 
-•	**What safe and responsible code looks like**
-
-•	**Vibe coding/AI assisted strategies**
+- **Professional Tooling & Version Control Mastery**
+- **Core Programming Logic and How It Interacts**
+- **Code Quality Assurance (Unit Testing & Documentation)**
+- **Project Architecture & Systems Thinking**
+- **API Integration & Connectivity**
+- **What safe and responsible code looks like**
+- **Vibe coding/AI assisted strategies**
 
 With a strong foundation in these areas, I’ll be able to leverage the rapid growth of AI to build better tools, solve bigger problems, and create things that matter.
 
-
 ---
+
+### Let's Connect
 
 If you share my mindset and desires, email me at **[jakedeleeuw032@gmail.com](mailto:jakedeleeuw032@gmail.com)**. I continue to expand my tribe and find people who wish to change the world.
